@@ -1,0 +1,6 @@
+cn\itcast\hotel\pojo\Hotel.class
+cn\itcast\hotel\mapper\HotelMapper.class
+cn\itcast\hotel\HotelDemoApplication.class
+cn\itcast\hotel\service\IHotelService.class
+cn\itcast\hotel\service\impl\HotelService.class
+cn\itcast\hotel\pojo\HotelDoc.class
